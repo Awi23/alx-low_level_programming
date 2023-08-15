@@ -10,4 +10,4 @@ void jack_baver(void);
 void times_tables(void);
 int add(int, int); 
 void print_to_98(void);
-void print_times_table(void); 
+void print_times_table(void);  
