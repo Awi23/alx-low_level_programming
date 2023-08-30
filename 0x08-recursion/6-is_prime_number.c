@@ -1,5 +1,6 @@
-include "main.h"
+#include "main.h"
 
+int actual_prime(int n, int i); 
 /**
  * prime2 - Makes possible to evaluate from 1 to n
  * @a: same number as n
@@ -29,3 +30,4 @@ int is_prime_number(int n)
 		return (0);
 	return (prime2(n, 2));
 }
+
